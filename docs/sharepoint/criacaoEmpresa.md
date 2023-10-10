@@ -8,9 +8,9 @@ Para a criação de uma nova empresa, é necessário preencher os dados na lista
 - Número de Contribuinte da Empresa;
 - Designação legal da Empresa;
 
-(* Todos os campos são de preenchimento obrigatório)
+> (* Todos os campos são de preenchimento obrigatório)
 
-![criacaoEmpresa](../images/criacaoEmpresa.png)
+<center>![criacaoEmpresa](../images/criacaoEmpresa.png)</center>
 
 ---
 
