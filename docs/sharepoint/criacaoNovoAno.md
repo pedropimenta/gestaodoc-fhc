@@ -61,7 +61,7 @@ Para terminar o processo, falta customizar o site do novo ano recentemente criad
 ### 3.2.1 Costumizar a "Home Page"
 Para customizarmos a página inicial (“Home Page”) do site recém-criado , temos que clicar no botão “Edit” da página para remover todas as “webParts” que estão por defeito na página.
 
-![](../images/homepage.png)
+![](../images/homepage.png) 
 
 - Para eliminar as "webparts", deve clicar na zona da página. Do lado esquerdo vai surgir um menu com os 4 icons. Só tem que clicar no icon do “Caixote do Lixo” para eliminar tudo. A partir de agora temos as condições para colocar a webpart que pretendemos.
 
