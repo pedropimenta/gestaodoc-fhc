@@ -1,4 +1,4 @@
-#Criação de nova Empresa
+# 2 - Criação de nova Empresa
 
 Para a criação de uma nova empresa, é necessário preencher os dados na lista “Empresas do Grupo” no site principal (Sistema de Registo Documental - Grupo FHC - Hub - Home (sharepoint.com)). Para isso é necessário termos a seguinte informação:
 
@@ -18,7 +18,7 @@ Depois de preenchido o registo na tabela, há um processo que executa a criaçã
 Da customização faz parte a alteração do tipo de Menu, a colocação do logótipo da empresa, bem como a remoção de umas entradas no menu. 
 
 
-## <strong>Customização do Menu: </strong>
+## <strong>2.1 Customização do Menu: </strong>
 
 Na roda dentada (“Site Settings”) selecionar a opção “Change the Look” e depois dentro da opção “Header” fazer o upload dos logótipos da empresa. 
 De seguida, temos que customizar a navegação e para isso, clicamos em “Navigation” e escolhemos “Horizontal” e em baixo selecionamos o “Mega Menu”. 

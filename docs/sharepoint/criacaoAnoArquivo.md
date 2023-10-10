@@ -1,4 +1,4 @@
-#Criação de novo ano de arquivo
+# 3 - Criação de novo ano de arquivo
 
 Para a criação de um novo registo na tabela de Anos, é necessário preencher os dados na lista “Ano Fiscal”, no site principal (Sistema de Registo Documental - Grupo FHC - Hub - Ano Fiscal - All Items (sharepoint.com))
 
@@ -12,8 +12,10 @@ Para a criação de um novo registo na tabela de Anos, é necessário preencher 
 
 ---
 
+## 3.1 Cofigurar as Bibliotecas de Documentos
 Após a execução do processo de criação do site do novo ano, é necessário configurar as bibliotecas de documentos, para colocar o “Content Type” e os campos corretos na “View”.
 
+### 3.1.1 Configurar o "Content Type"
 Deste modo, devemos atribuir a cada uma das “Document Libraries” o "Content Type" - FHC Digi Documents CT. Indo a cada uma das Bibliotecas de Documentos e executando os seguintes passos:
 
  - Selecionar “Library Settings”;
@@ -21,7 +23,9 @@ Deste modo, devemos atribuir a cada uma das “Document Libraries” o "Content 
  - Selecionar o tipo FHC Digi Documents CT da lista de "Content Type";
  - Clicar em "OK".
 
- O novo tipo criado aparecerá na lista de "Content Type", na Biblioteca de Documentos. Falta ainda configurar o Content Type como "Default", sendo para isso necessário fazer as seguintes ações:
+ O novo tipo criado aparecerá na lista de "Content Type", na Biblioteca de Documentos. 
+ 
+ Falta ainda configurar o Content Type como "Default", sendo para isso necessário fazer as seguintes ações:
 
  - Seleccionar a opção “Change new button order and default content type”;
  - Tornar o "Content Type Document" não visível, fazendo um click na respetiva opção; 
@@ -29,7 +33,7 @@ Deste modo, devemos atribuir a cada uma das “Document Libraries” o "Content 
 
 ![anoFiscal](../images/anoArquivo2.png)
 
---- 
+### 3.1.2 Configurar os campos na "View"
 Depois de se executar a tarefa anterior, é necessário configurar os campos na “View” para que estejam visíveis:
 
 1. No bloco “Views”, é necessário seleccionar “All Documents” para colocarmos os campos novos.
@@ -43,6 +47,8 @@ De seguida, é necessário configurar o número de items que serão visualizados
 <center>![anoFiscal](../images/limiteItem.png)</center>
 
 ---
+
+##3.2 Costumizar o site do novo ano criado
 
 Para terminar o processo, falta customizar o site do novo ano recentemente criado. Temos como exemplo o que foi feito para o site da Empresa, onde é necessário customizar tanto a Navegação quanto o Menu, bem como a informação da página Inicial.
 
