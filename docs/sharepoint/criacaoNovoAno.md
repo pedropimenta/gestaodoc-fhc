@@ -29,7 +29,7 @@ Deste modo, devemos atribuir a cada uma das “Document Libraries” o "Content 
 
 - Seleccionar a opção “Change new button order and default content type”;
 - Tornar o "Content Type Document" não visível, fazendo um click na respetiva opção; 
- - Colocar o "Content Type" FHC Digi Documents CT em primeiro lugar na lista.
+- Colocar o "Content Type" FHC Digi Documents CT em primeiro lugar na lista.
 
 ![anoFiscal](../images/anoArquivo2.png)
 
@@ -63,21 +63,21 @@ Para customizarmos a página inicial (“Home Page”) do site recém-criado , t
 
 ![](../images/homepage.png) 
 
-- Para eliminar as "webparts", deve clicar na zona da página. Do lado esquerdo vai surgir um menu com os 4 icons. Só tem que clicar no icon do “Caixote do Lixo” para eliminar tudo. A partir de agora temos as condições para colocar a webpart que pretendemos.
+1. Para eliminar as "webparts", deve clicar na zona da página. Do lado esquerdo vai surgir um menu com os 4 icons. Só tem que clicar no icon do “Caixote do Lixo” para eliminar tudo. A partir de agora temos as condições para colocar a webpart que pretendemos.
 
-<center>![](../images/menuWebparts.png)</center>
+    <center>![](../images/menuWebparts.png)</center>
 
--  Para adicionar a "webpart" pretendida (Document Library), temos que clicar no sinal (X) que aparece no centro da página e depois disso, clicar no icon da  "Document Library".
+2. Para adicionar a "webpart" pretendida (Document Library), temos que clicar no sinal (X) que aparece no centro da página e depois disso, clicar no icon da  "Document Library".
 
-<center>![](../images/addWebpart.png)</center>
+    <center>![](../images/addWebpart.png)</center>
 
-- Depois disso, só teremos que escolher a biblioteca de document FTR – Fatura para que a nossa página esteja completa
+3. Depois disso, só teremos que escolher a biblioteca de document FTR – Fatura para que a nossa página esteja completa
 
-<center>![](../images/webpartFTR.png)</center>
+    <center>![](../images/webpartFTR.png)</center>
 
-- Por fim, apenas temos que clicar no botão Republish, no canto superior direito da nossa página, para a publicar.
+4. Por fim, apenas temos que clicar no botão Republish, no canto superior direito da nossa página, para a publicar.
 
-<center>![](../images/webpartRepublish.png)</center>
+    <center>![](../images/webpartRepublish.png)</center>
 
 
 

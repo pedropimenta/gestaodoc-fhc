@@ -1,4 +1,4 @@
-# 4 - Segurança - Permissões
+# 5 - Segurança - Permissões
 
 Sendo a segurança/permissões uma parte muito importante na gestão de informação dentro do SharePoint, a forma como as permissões são dadas é fundamental.
 Devem ser criados grupos de utilizadores tendo em atenção os seguintes níveis de permissão:
