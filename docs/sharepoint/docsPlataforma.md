@@ -1,8 +1,8 @@
 # 4 – Envio de documentos para a Plataforma
 
-Existem, 4 tipologias de envio,  que carecem de ser tratadas de forma diferente:
+Existem 4 tipologias de envio que carecem de ser tratadas de forma diferente:
 
-1. Um Documento -> 1 processo de Entrada   
+1. Um Documento -> 1 Processo de Entrada   
 
     Email: DocStorage.one@zeone.pt
 
