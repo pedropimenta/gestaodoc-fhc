@@ -9,4 +9,4 @@ Para treinar o modelo é necessário agregar as faturas em coleções. As coleç
 3. Cada coleção deve ter no máximo 50 MB e 500 páginas no total;
 
 
-![Extract](../images/colecoes.png)
+<center>![Extract](../images/colecoes.png)</center>

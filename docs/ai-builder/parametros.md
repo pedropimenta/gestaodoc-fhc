@@ -9,5 +9,4 @@ Nesta fase deve adicionar-se à lista de campos os parâmetros que se pretendem 
 
 ---
 
-
-![Extract](../images/extract.png)
+<center>![Extract](../images/extract.png)</center>

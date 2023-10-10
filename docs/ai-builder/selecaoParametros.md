@@ -5,19 +5,19 @@ De forma a treinar o modelo é necessário selecionar e identificar os parâmetr
 Para identificar a informação a extrair, desenha-se um retângulo à volta da informação de interesse e atribui-se ao campo ou tabela correspondente.
 
 
-![SelecaoParametros](../images/selecaoParametros1.png)
+<center>![SelecaoParametros](../images/selecaoParametros1.png)</center>
 
 ---
 
 Se um campo ou tabela não estiver presente num dos documentos, clique no ícone dos três pontos para obter mais opções e seleccione “Not available in document” (não consta no documento), ou no caso de não estar disponível na coleção “Not available in collection” (não disponível na coleção).
 
 
-![SelecaoParametros](../images/selecaoParametros2.png)
+<center>![SelecaoParametros](../images/selecaoParametros2.png)</center>
 
 ---
 
 
-##Seleção de Parâmetros - Tabelas
+## <strong>Seleção de Parâmetros - Tabelas</strong>
 
 1. Seleciona-se a tabela inteira, tal como nos outros parâmetros;
 2. Para desenhar linhas, clique com o botão esquerdo do rato entre os separadores de linhas;
@@ -27,15 +27,15 @@ Se um campo ou tabela não estiver presente num dos documentos, clique no ícone
 
 ---
 
-![SelecaoTabelas](../images/selecaoTabelas.gif)
+<center>![SelecaoTabelas](../images/selecaoTabelas.gif)</center>
 
 ---
 
-##Seleção de Parâmetros – Tabelas "Advanced Tagging Mode"
+## <strong>Seleção de Parâmetros – Tabelas "Advanced Tagging Mode"</strong>
 ​
 Este modo de seleção serve para tabelas que estão distorcidas, onde a marcação com uma grelha não é possível. Como por exemplo  quando é necessário extrair  mais de um item dentro de uma célula.​
 ​
 Facilita o trabalho se começar por selecionar o modo predefinido para capturar rapidamente todas as linhas e colunas. Em seguida, mudar para o modo avançado para ajustar cada célula.
 
 ---
-![SelecaoParametrosAdvanced](../images/selecaoTabelasAdvanced.gif)
+<center>![SelecaoParametrosAdvanced](../images/selecaoTabelasAdvanced.gif)</center>
