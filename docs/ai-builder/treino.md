@@ -1,4 +1,4 @@
-# Treino do Modelo
+# 5 - Treino do Modelo
 
 A partir do momento em que o modelo é treinado, aparece uma cotação geral que garante uma boa eficiência do modelo. Essa cotação deverá sempre ultrapassar os 90%. Para melhorar a eficiência dos resultados devemos analisar em maior detalhe cada parâmetro e coleção.
 Para tal deve-se clicar em "rever a avaliação completa". 

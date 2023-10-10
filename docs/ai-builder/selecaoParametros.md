@@ -1,4 +1,4 @@
-# Seleção de Parâmetros
+# 4 - Seleção de Parâmetros
 
 De forma a treinar o modelo é necessário selecionar e identificar os parâmetros criados em todos os documentos.
 
@@ -17,7 +17,7 @@ Se um campo ou tabela não estiver presente num dos documentos, clique no ícone
 ---
 
 
-## <strong>Seleção de Parâmetros - Tabelas</strong>
+## 4.1 - <strong>Seleção de Parâmetros - Tabelas</strong>
 
 1. Seleciona-se a tabela inteira, tal como nos outros parâmetros;
 2. Para desenhar linhas, clique com o botão esquerdo do rato entre os separadores de linhas;
@@ -31,7 +31,7 @@ Se um campo ou tabela não estiver presente num dos documentos, clique no ícone
 
 ---
 
-## <strong>Seleção de Parâmetros – Tabelas "Advanced Tagging Mode"</strong>
+## 4.2 - <strong>Seleção de Parâmetros – Tabelas "Advanced Tagging Mode"</strong>
 ​
 Este modo de seleção serve para tabelas que estão distorcidas, onde a marcação com uma grelha não é possível. Como por exemplo  quando é necessário extrair  mais de um item dentro de uma célula.​
 ​

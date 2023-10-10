@@ -1,4 +1,4 @@
-# Agregação das Faturas por Coleções
+# 2 - Agregação das Faturas por Coleções
 
 Para treinar o modelo é necessário agregar as faturas em coleções. As coleções servem como pastas de ficheiros dentro do AI Builder.
 
