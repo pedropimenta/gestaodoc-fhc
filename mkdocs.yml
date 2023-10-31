@@ -3,6 +3,9 @@ theme:
   name: material
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.instant
+    - navigation.instant.prefetch
     - navigation.sections
     - toc.integrate
     - navigation.top
@@ -16,6 +19,8 @@ theme:
   markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - admonition
@@ -24,8 +29,11 @@ theme:
   - footnotes
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
   - pymdownx.mark
   - attr_list
+  - md_in_html
 
 copyright: |
   &copy; 2023 <a href="#linkFHC"  target="_blank" rel="noopener">FHC</a>

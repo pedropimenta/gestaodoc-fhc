@@ -2,7 +2,7 @@
 
 ## Dataverse
     - Authentication with AD
-    - PostMan Operations
+    - PostMan Token
         -- Get All Tables
         -- Insert
         -- Update
